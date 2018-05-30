@@ -256,7 +256,7 @@ EOL
 	#remove zip file
 	rm latest.tar.gz
 	#remove bash script if it exists in this dir
-	[[ -f "wp.sh" ]] && rm "wp.sh"
+	[[ -f "install.sh" ]] && rm "install.sh"
 	echo "========================="
 	echo "[Success]: Installation is complete."
 	echo "========================="
