@@ -20,11 +20,12 @@ Also includes some security configuration, and htaccess hardening to secure your
 
 #### Install 2 
 - Optionally you can run this script directly without git by pasting this into the command line or terminal 
-`curl -L -o 'install.sh' https://raw.githubusercontent.com/tecmie/wpshell/master/install.sh && chmod +x install.sh && bash install.sh`
+`curl -L -o 'install.sh' https://raw.githubusercontent.com/koolamusic/wpshell/master/install.sh && chmod +x install.sh && bash install.sh`
 
 
 ### Todo
-Create configuration to work with [https://roots.io/bedrock/] a WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure and dependency management with composer.
+Create configuration to work with [https://roots.io/bedrock/] a WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure and dependency management with composer. refer to [https://github.com/koolamusic/wpshell/issues/1]
+
 
 
 ### Bugs and Errors
